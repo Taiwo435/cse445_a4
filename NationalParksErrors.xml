@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- ERROR 1: root element is NationalPark instead of NationalParks -->
 <NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-              xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+              xsi:noNamespaceSchemaLocation="https://taiwo435.github.io/cse445_a4/NationalParks.xsd">
 
   <!-- ERROR 5: this park has two Name elements, but the schema only allows one -->
   <NationalPark Rating="4.9">
