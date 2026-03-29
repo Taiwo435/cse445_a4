@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+               xsi:noNamespaceSchemaLocation="https://taiwo435.github.io/cse445_a4/NationalParks.xsd">
 
   <!-- park 1 - grand canyon, this is the figure 1 example, 3 phones, rating included -->
   <NationalPark Rating="4.9">
